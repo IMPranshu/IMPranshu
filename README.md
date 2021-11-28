@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IMPranshu
-- 👀 I’m interested in Machine Learning and AI.
-- 🌱 I’m currently advancing towards Python.
-- 💞️ I’m looking to collaborate on Neural Networks, managment works, anything which requires lot of thinking power.
+- 👀 I’m interested in DevOps and OpenSource.
+- 🌱 I’m currently learning Devops and contributing to opensource actively.
+- 💞️ I’m looking to contribute to opensource everyday.
 - 📫 Drop a mail on pranshukumar1999@gmail.com.
 
 <!---
