@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IMPranshu
 - 👀 I’m interested in DevOps and OpenSource.
-- 🌱 I’m currently learning Devops and contributing to opensource actively.
+- 🌱 I’m currently learning about Blockchain Technology and looking to contribute to opensource actively.
 - 💞️ I’m looking to contribute to opensource everyday.
 - 📫 Drop a mail on pranshukumar1999@gmail.com.
 
