@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @IMPranshu
-- 👀 I’m interested in DevOps and OpenSource.
-- 🌱 I’m currently learning about Blockchain Technology and looking to contribute to opensource actively.
-- 💞️ I’m looking to contribute to opensource everyday.
-- 📫 Drop a mail on pranshukumar1999@gmail.com.
-
-
 
  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
