@@ -25,10 +25,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: dailydotdev/action-devcard@2.0.4
 
       # Runs a single command using the runners shell
       - name: devcard
+        uses: dailydotdev/action-devcard@2.0.4
         with: 
           devcard_id: ${{ secrets.DEVCARD_ID }}
  
