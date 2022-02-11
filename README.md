@@ -4,6 +4,11 @@
 - 💞️ I’m looking to contribute to opensource everyday.
 - 📫 Drop a mail on pranshukumar1999@gmail.com.
 
+https://github.com/IMPranshu/IMPranshu/blob/main/devcard.svg
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/IMPranshu/IMPranshu/blob/main/devcard.svg" width="400" alt="Pk's Dev Card"/></a>
+
+
 
 ## 🔗 Connect with me
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pkagrawal.me/)
