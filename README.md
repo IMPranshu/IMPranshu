@@ -5,7 +5,6 @@
 - 📫 Drop a mail on pranshukumar1999@gmail.com.
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/IMPranshu/IMPranshu/blob/main/devcard.svg" width="400" alt="Pk's Dev Card"/></a>
 
  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
