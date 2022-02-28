@@ -15,18 +15,8 @@
 
 
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
-  </tr>
-</table>
-<!---
-IMPranshu/IMPranshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<img src ="https://github-readme-stats.vercel.app/api?username=impranshu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 ## 👐 contribution chart
 <img src="https://github-readme-stats.vercel.app/api?username=IMPranshu&show_icons=true&include_all_commits=true&hide_border=true&bg_color=22272e&color=9BE8A8&text_color=2FBD90&line=9BE8A8&point=40C363">
