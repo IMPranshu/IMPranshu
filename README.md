@@ -4,6 +4,8 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pkknowsnothing)
 
 
+
+
  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
       width="256"
@@ -11,10 +13,6 @@
       src="https://github.com/IMPranshu/IMPranshu/blob/main/devcard.svg"
     />
   </a>
-
-
-
-
 
 
 
