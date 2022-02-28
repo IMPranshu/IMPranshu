@@ -27,3 +27,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src ="https://github-readme-stats.vercel.app/api?username=impranshu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+## 👐 contribution chart
+<img src="https://github-readme-stats.vercel.app/api?username=IMPranshu&show_icons=true&include_all_commits=true&hide_border=true&bg_color=22272e&color=9BE8A8&text_color=2FBD90&line=9BE8A8&point=40C363">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=IMPranshu&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463">
+<img src="https://activity-graph.herokuapp.com/graph?username=IMPranshu&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
