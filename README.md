@@ -17,7 +17,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=IMPranshu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=IMPranshu&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=777)
 
 ## 🤝 Connect with me
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pkagrawal.me/)
