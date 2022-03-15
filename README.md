@@ -25,3 +25,4 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pkknowsnothing)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=IMPranshu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
