@@ -15,7 +15,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=IMPranshu&theme=github-dark-blue&hide_border=true&stroke=00000000">
 <img src="https://activity-graph.herokuapp.com/graph?username=IMPranshu&theme=react-dark&hide_border=true">
 
-📊 &nbsp;**This week I spent my time on**
+## 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=IMPranshu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=fff)
 
