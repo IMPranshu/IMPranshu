@@ -10,7 +10,7 @@
 
 
 ## 👐 contribution chart
-<img src="https://github-readme-stats.vercel.app/api?username=IMPranshu&show_icons=true&include_all_commits=true&themr=github_dark&hide_border=true&bg_color=00000000&color=9BE8A8&text_color=ffffff&line=9BE8A8&point=40C363">
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=IMPranshu&theme=github-dark-blue&hide_border=true&stroke=00000000">
 <img src="https://activity-graph.herokuapp.com/graph?username=IMPranshu&theme=react-dark&hide_border=true">
 
