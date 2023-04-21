@@ -1,7 +1,8 @@
 
+ # <a href="https://twitter.com/pkknowsnothing/"> Hello, Folks! I'm Pranshu Kumar Agrawal</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40rem" height="40rem">
  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
-      width="324"
+      width="144"
       align="right"
       src="https://github.com/IMPranshu/IMPranshu/blob/main/devcard.svg"
     />
@@ -10,20 +11,33 @@
 
 
 
-## 👐 contribution chart
+
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=IMPranshu&theme=github-dark-blue&hide_border=true&stroke=00000000">
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+## About :sunglasses:
+
+- Opensource Developer Advocate & AI Developer. 
+- I love playing and buidling cool stuffs using technology.
+- Got Selected in a global event Summer of Bitcoin.
+- I am currently learning about Kubernetes
 
 # Technology and Tools 🔧
 ## Programming Languages 🔥
 [![My Skills](https://skills.thijs.gg/icons?i=javascript,nodejs,python,java,cpp,flutter,md&theme=light)](https://skills.thijs.gg)
 
 ## Frameworks 🖼️
-[![My Skills](https://skills.thijs.gg/icons?i=threejs,react,tailwind,vite,dart&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,threejs,react,tailwind,vite,dart&theme=light)](https://skills.thijs.gg)
 
+## Cloud
+[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,aws&theme=light)](https://skills.thijs.gg)
  
  ## Databases
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,postgres&theme=light)](https://skills.thijs.gg)
+
+
 
 ## 📊 &nbsp;**This week I spent my time on**
 
