@@ -1,12 +1,16 @@
 
- # <a href="https://twitter.com/pkknowsnothing/"> Hello, Folks! I'm Pranshu Kumar Agrawal</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40rem" height="40rem">
- <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+ # <a href="https://twitter.com/pkknowsnothing/"> Hello, Folks! I'm Pranshu Kumar Agrawal</a><img src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/wave.gif" width="40rem" height="40rem">
+
+ <a href="https://pkknowsnothing.com/" target="_blank">
     <img
       width="144"
       align="right"
-      src="https://github.com/IMPranshu/IMPranshu/blob/main/devcard.svg"
+      src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/devcard.svg"
     />
   </a>
+   <a href="https://www.impranshu.ml/" target="_blank">
+<img align="right" src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/Mario.svg" width=200 height=200/>
+</a>
 
 
 
@@ -16,7 +20,10 @@
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=IMPranshu&theme=github-dark-blue&hide_border=true&stroke=00000000">
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<a href="https://www.linkedin.com/in/pranshu-kumar-agrawal-74988152/" target="_blank" >
+<img align="right" src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/Developer.gif"/>
+</a>
+
 
 ## About :sunglasses:
 
@@ -25,8 +32,10 @@
 - Got Selected in a global event Summer of Bitcoin.
 - I am currently learning about Kubernetes
 
+
 # Technology and Tools 🔧
 ## Programming Languages 🔥
+
 [![My Skills](https://skills.thijs.gg/icons?i=javascript,nodejs,python,java,cpp,flutter,md&theme=light)](https://skills.thijs.gg)
 
 ## Frameworks 🖼️
