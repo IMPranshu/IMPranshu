@@ -9,7 +9,7 @@
     />
   </a>
    <a href="https://www.impranshu.ml/" target="_blank">
-<img align="right" src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/Mario.svg" width=200 height=200/>
+<img align="right" src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/Mario.svg" width=150 height=200/>
 </a>
 
 
