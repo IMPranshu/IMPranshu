@@ -13,6 +13,7 @@
 
 
 
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=IMPranshu&theme=github-dark-blue&hide_border=true&stroke=00000000">
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
@@ -20,7 +21,7 @@
 ## About :sunglasses:
 
 - Opensource Developer Advocate & AI Developer. 
-- I love playing and buidling cool stuffs using technology.
+- I love playing and building cool stuff using technology.
 - Got Selected in a global event Summer of Bitcoin.
 - I am currently learning about Kubernetes
 
