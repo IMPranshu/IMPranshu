@@ -8,7 +8,7 @@
       src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/devcard.svg"
     />
   </a>
-   <a href="https://www.impranshu.ml/" target="_blank">
+   <a href="https://dub.sh/mario" target="_blank">
 <img align="right" src="https://github.com/IMPranshu/IMPranshu/blob/main/assets/Mario.svg" width=150 height=200/>
 </a>
 
